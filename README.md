@@ -39,4 +39,6 @@ Use the JBoss public Maven repository settings.
 [https://community.jboss.org/wiki/MavenGettingStarted-Users](http://)
 
 	
-	
+#Must see or read
+Clustering for High Availability (HA) with JBoss AS7
+[http://www.youtube.com/watch?v=rw4GpBepceY&feature=relmfu](http://)
